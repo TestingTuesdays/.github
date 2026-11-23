@@ -117,6 +117,10 @@ Follow Web3Clubs for community news and updates:
 - **X (Twitter):** [@web3clubs](https://x.com/web3clubs)
 - **LinkedIn:** [Web3 Developer Clubs](https://www.linkedin.com/company/web3developerclubs/)
 
+## 📚 Founder resources
+
+Building and improving a product is easier with practical guidance. Explore our **[Founder Resources](https://github.com/TestingTuesdays/founder-resources)** repository for public resources to support founders as they test, learn, and iterate on their products.
+
 ## Get involved
 
 ### 🚀 Founders
