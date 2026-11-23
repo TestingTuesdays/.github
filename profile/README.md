@@ -108,6 +108,15 @@ The initial Nairobi pilot is being designed as a **multi-session cohort**, so th
 
 **No pay-to-play testing priority.** Sponsorship does not buy admission, favorable research results, or private participant information.
 
+## About Web3Clubs
+
+**Web3Clubs** is a developer and builder community that connects people through learning, collaboration, and hands-on technology activities. Testing Tuesdays is being developed with the **Web3Clubs Nairobi** community to help founders and builders move beyond demos into practical product testing, user feedback, and continuous improvement.
+
+Follow Web3Clubs for community news and updates:
+
+- **X (Twitter):** [@web3clubs](https://x.com/web3clubs)
+- **LinkedIn:** [Web3 Developer Clubs](https://www.linkedin.com/company/web3developerclubs/)
+
 ## Get involved
 
 ### 🚀 Founders
@@ -122,7 +131,7 @@ We are interested in practical collaborations that connect test-ready founders w
 ### 💻 Open-source contributors
 This GitHub organization is a home for Testing Tuesdays' public code and community collaboration. As repositories and contribution guides are published, look for issues and pull requests where you can help. Please avoid submitting any real participant or founder data to public repositories.
 
-**Explore:** [Testing Tuesdays on GitHub](https://github.com/TestingTuesdays) · [Community project repository](https://github.com/codingshot/TestingTuesdays)
+**Connect with Web3Clubs:** [X](https://x.com/web3clubs) · [LinkedIn](https://www.linkedin.com/company/web3developerclubs/)\n\n**Explore:** [Testing Tuesdays on GitHub](https://github.com/TestingTuesdays) · [Community project repository](https://github.com/codingshot/TestingTuesdays)
 
 ## Starting in Nairobi, built for repeatable learning
 
